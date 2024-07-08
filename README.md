@@ -1,7 +1,5 @@
 # Api Rest Tests
 
-[![CI](https://github.com/andresgranizo/devsu/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/devsu/actions/workflows/ci.yml)
-
 This repository contains API tests for the signup and login functionalities of the Demoblaze website.
 
 ## Prerequisites
@@ -12,7 +10,7 @@ This repository contains API tests for the signup and login functionalities of t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andresgranizo/devsu.git
+   git clone
 
 2. Install Dependencies
    * npm install
