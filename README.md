@@ -1,5 +1,7 @@
 # Api Rest Tests
 
+[![CI](https://github.com/andresgranizo/DemoblazeTest/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/DemoblazeTest/actions/workflows/ci.yml)
+
 This repository contains API tests for the signup and login functionalities of the Demoblaze website.
 
 ## Prerequisites
